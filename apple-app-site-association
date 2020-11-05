@@ -1,0 +1,11 @@
+{
+  "applinks": {
+        "apps": [],
+        "details": [
+            { 
+                "appID": "JC7AWM989K.com.mofyi.flutter.mall.app",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
